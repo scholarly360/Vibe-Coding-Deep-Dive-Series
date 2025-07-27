@@ -26,3 +26,16 @@ LSP integration, and custom commands, making it a versatile terminal-based codin
 both interactive and non-interactive modes.
 ```
 
+
+[Aider](https://github.com/Aider-AI/aider)
+
+```
+Aider is an AI pair programming tool that runs in your terminal, allowing developers to collaborate
+with large language models like Claude 3.7 Sonnet, DeepSeek, OpenAI o1, and GPT-4o to build new projects
+or work on existing codebases. The tool creates a comprehensive map of your entire codebase to work
+effectively in larger projects, supports most popular programming languages, and automatically commits changes
+with sensible commit messages while integrating seamlessly with git workflows. 
+```
+
+
+
